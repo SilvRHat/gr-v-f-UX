@@ -4,7 +4,7 @@
 
 
 # FILES //
-EXE = final
+EXE = gravity_flux
 SYS_SRC  = main.c camera.c noise.c
 SYS_HDR  = main.h camera.h noise.h
 VRS_SRC  = grav-flx.c
