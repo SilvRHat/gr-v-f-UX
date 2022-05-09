@@ -1,2 +1,3 @@
 *.o
 gravity_flux
+.vscode
