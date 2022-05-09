@@ -1,8 +1,9 @@
-Final Progress Review - Gr@v:f/UX
-Gavin Zimmerman
+# Final Progress Review - Gr@v:f/UX
+## Gavin Zimmerman
 
 
-Controls
+
+### Controls
  ESC                            Escape
  WASD                           Move camera
  Mouse Right Button             Rotate camera
@@ -12,15 +13,15 @@ Controls
  R                              Reload Shaders [shortcut dev tool]
  P                              Toggle post-processing
 
-Compiling and Running
+### Compiling and Running
  Compiling: make
  Running:  ./final
 
 
-About
+### About
  Asteroids
 
-Files
+### Files
  camera.c/.h      Camera Logic
  grav-flx.c/.h    Main scene
  main.c/.h        Top level program, responsible for setting up input and window
